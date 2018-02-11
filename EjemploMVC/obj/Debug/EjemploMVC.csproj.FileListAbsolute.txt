@@ -1,0 +1,9 @@
+c:\users\usuario\documents\visual studio 2012\Projects\EjemploMVC\EjemploMVC\bin\Debug\EjemploMVC.exe.config
+c:\users\usuario\documents\visual studio 2012\Projects\EjemploMVC\EjemploMVC\bin\Debug\EjemploMVC.exe
+c:\users\usuario\documents\visual studio 2012\Projects\EjemploMVC\EjemploMVC\bin\Debug\EjemploMVC.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\EjemploMVC\EjemploMVC\obj\Debug\EjemploMVC.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2012\Projects\EjemploMVC\EjemploMVC\obj\Debug\EjemploMVC.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2012\Projects\EjemploMVC\EjemploMVC\obj\Debug\EjemploMVC.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2012\Projects\EjemploMVC\EjemploMVC\obj\Debug\EjemploMVC.exe
+c:\users\usuario\documents\visual studio 2012\Projects\EjemploMVC\EjemploMVC\obj\Debug\EjemploMVC.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\EjemploMVC\EjemploMVC\obj\Debug\EjemploMVC.View.User.resources
